@@ -1,0 +1,63 @@
+2018-09-08 10:04:19  [ main:0 ] - [ INFO ]  读取 * test * 数据库信息
+2018-09-08 10:04:19  [ main:11 ] - [ INFO ]  读取 * testtable * 数据表信息
+2018-09-08 10:04:19  [ main:12 ] - [ INFO ]  0
+2018-09-08 10:04:19  [ main:38 ] - [ INFO ]  com.TFS.model.Tuple@7cc355be
+2018-09-08 10:04:19  [ main:39 ] - [ INFO ]  com.TFS.model.Tuple@6e8cf4c6
+2018-09-08 10:04:19  [ main:39 ] - [ INFO ]  com.TFS.model.Tuple@12edcd21
+2018-09-08 10:04:19  [ main:39 ] - [ INFO ]  读取 * test * 数据库信息完成
+2018-09-08 10:51:55  [ main:0 ] - [ INFO ]  读取 * test * 数据库信息
+2018-09-08 10:51:55  [ main:6 ] - [ INFO ]  读取 * testtable * 数据表信息
+2018-09-08 10:51:55  [ main:6 ] - [ INFO ]  0
+2018-09-08 10:51:55  [ main:11 ] - [ INFO ]  com.TFS.model.Tuple@7cc355be
+2018-09-08 10:51:55  [ main:11 ] - [ INFO ]  com.TFS.model.Tuple@6e8cf4c6
+2018-09-08 10:51:55  [ main:11 ] - [ INFO ]  com.TFS.model.Tuple@12edcd21
+2018-09-08 10:51:55  [ main:12 ] - [ INFO ]  读取 * test * 数据库信息完成
+2018-09-08 13:12:10  [ main:0 ] - [ INFO ]  读取 * test * 数据库信息
+2018-09-08 13:12:10  [ main:27 ] - [ INFO ]  读取 * testtable * 数据表信息
+2018-09-08 13:12:10  [ main:27 ] - [ INFO ]  0
+2018-09-08 13:12:10  [ main:30 ] - [ INFO ]  com.TFS.model.Tuple@7cc355be
+2018-09-08 13:12:10  [ main:30 ] - [ INFO ]  com.TFS.model.Tuple@6e8cf4c6
+2018-09-08 13:12:10  [ main:30 ] - [ INFO ]  com.TFS.model.Tuple@12edcd21
+2018-09-08 13:12:10  [ main:30 ] - [ INFO ]  读取 * test * 数据库信息完成
+2018-09-08 13:13:40  [ main:0 ] - [ INFO ]  读取 * test * 数据库信息
+2018-09-08 13:13:40  [ main:5 ] - [ INFO ]  读取 * testtable * 数据表信息
+2018-09-08 13:13:40  [ main:5 ] - [ INFO ]  0
+2018-09-08 13:13:40  [ main:7 ] - [ INFO ]  com.TFS.model.Tuple@7cc355be
+2018-09-08 13:13:40  [ main:7 ] - [ INFO ]  com.TFS.model.Tuple@6e8cf4c6
+2018-09-08 13:13:40  [ main:8 ] - [ INFO ]  com.TFS.model.Tuple@12edcd21
+2018-09-08 13:13:40  [ main:8 ] - [ INFO ]  读取 * test * 数据库信息完成
+2018-09-08 13:29:13  [ main:0 ] - [ INFO ]  读取 * test * 数据库信息
+2018-09-08 13:29:13  [ main:4 ] - [ INFO ]  读取 * testtable * 数据表信息
+2018-09-08 13:29:13  [ main:4 ] - [ INFO ]  0
+2018-09-08 13:29:13  [ main:6 ] - [ INFO ]  com.TFS.model.Tuple@7cc355be
+2018-09-08 13:29:13  [ main:7 ] - [ INFO ]  com.TFS.model.Tuple@6e8cf4c6
+2018-09-08 13:29:13  [ main:7 ] - [ INFO ]  com.TFS.model.Tuple@12edcd21
+2018-09-08 13:29:13  [ main:7 ] - [ INFO ]  读取 * test * 数据库信息完成
+2018-09-08 13:34:17  [ main:0 ] - [ INFO ]  读取 * test * 数据库信息
+2018-09-08 13:34:17  [ main:5 ] - [ INFO ]  读取 * testtable * 数据表信息
+2018-09-08 13:34:17  [ main:5 ] - [ INFO ]  0
+2018-09-08 13:34:17  [ main:7 ] - [ INFO ]  com.TFS.model.Tuple@7cc355be
+2018-09-08 13:34:17  [ main:7 ] - [ INFO ]  com.TFS.model.Tuple@6e8cf4c6
+2018-09-08 13:34:17  [ main:8 ] - [ INFO ]  com.TFS.model.Tuple@12edcd21
+2018-09-08 13:34:17  [ main:8 ] - [ INFO ]  读取 * test * 数据库信息完成
+2018-09-08 14:06:37  [ main:0 ] - [ INFO ]  读取 * test * 数据库信息
+2018-09-08 14:06:37  [ main:5 ] - [ INFO ]  读取 * testtable * 数据表信息
+2018-09-08 14:06:37  [ main:5 ] - [ INFO ]  0
+2018-09-08 14:06:37  [ main:7 ] - [ INFO ]  Tuple [tuple={testint=Int}]
+2018-09-08 14:06:37  [ main:7 ] - [ INFO ]  Tuple [tuple={testint=Int}]
+2018-09-08 14:06:37  [ main:8 ] - [ INFO ]  Tuple [tuple={testint=Int, testdouble=Double, teststring=String}]
+2018-09-08 14:06:37  [ main:8 ] - [ INFO ]  读取 * test * 数据库信息完成
+2018-09-08 14:07:52  [ main:0 ] - [ INFO ]  读取 * test * 数据库信息
+2018-09-08 14:07:52  [ main:4 ] - [ INFO ]  读取 * testtable * 数据表信息
+2018-09-08 14:07:52  [ main:4 ] - [ INFO ]  0
+2018-09-08 14:07:52  [ main:6 ] - [ INFO ]  Tuple [tuple={testint=Int}]
+2018-09-08 14:07:52  [ main:7 ] - [ INFO ]  Tuple [tuple={testint=Int}]
+2018-09-08 14:07:52  [ main:7 ] - [ INFO ]  Tuple [tuple={testint=Int, testdouble=Double, teststring=String}]
+2018-09-08 14:07:52  [ main:7 ] - [ INFO ]  读取 * test * 数据库信息完成
+2018-09-08 14:08:24  [ main:0 ] - [ INFO ]  读取 * test * 数据库信息
+2018-09-08 14:08:24  [ main:4 ] - [ INFO ]  读取 * testtable * 数据表信息
+2018-09-08 14:08:24  [ main:4 ] - [ INFO ]  0
+2018-09-08 14:08:24  [ main:7 ] - [ INFO ]  Tuple [tuple={testint=Int}]
+2018-09-08 14:08:24  [ main:7 ] - [ INFO ]  Tuple [tuple={testint=Int}]
+2018-09-08 14:08:24  [ main:7 ] - [ INFO ]  Tuple [tuple={testint=Int, testdouble=Double, teststring=String}]
+2018-09-08 14:08:24  [ main:7 ] - [ INFO ]  读取 * test * 数据库信息完成

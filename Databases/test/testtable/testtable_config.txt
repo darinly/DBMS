@@ -1,0 +1,16 @@
+name=testtable
+database=test
+size=0
+
+primarykey:
+testint	
+Int	
+
+index:
+testint	
+Int	
+
+fields:
+testint	testdouble	teststring	
+Int	Double	String	
+
